@@ -9,7 +9,7 @@
 4|2019/9/4 |[基于TCP套接字编程](https://github.com/nercoeus/UNP-/blob/master/04.%E5%9F%BA%E6%9C%ACTCP%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B.md)|100%
 5|2019/9/4 |[TCP客户&服务器册程序示例](https://github.com/nercoeus/UNP-/blob/master/05.TCP%E5%AE%A2%E6%88%B7%26%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%E7%A4%BA%E4%BE%8B.md)|100%
 6|2019/9/4 |[IO复用：select和poll函数](https://github.com/nercoeus/UNP-/blob/master/06.IO%E5%A4%8D%E7%94%A8%EF%BC%9Aselect%E5%92%8Cpoll%E5%87%BD%E6%95%B0.md)|100%
-7|2019/9/16 |[套接字选项](https://github.com/nercoeus/UNP-/blob/master/07.%E5%A5%97%E6%8E%A5%E5%AD%97%E9%80%89%E9%A1%B9.md)|50%|优先完成其余部分
+7|2019/9/17 |[套接字选项](https://github.com/nercoeus/UNP-/blob/master/07.%E5%A5%97%E6%8E%A5%E5%AD%97%E9%80%89%E9%A1%B9.md)|100%
 8|2019/9/6  |[基于UDP套接字编程](https://github.com/nercoeus/UNP-/blob/master/08.%E5%9F%BA%E6%9C%ACUDP%E5%A5%97%E6%8E%A5%E5%AD%97%E7%BC%96%E7%A8%8B.md)|100%
 9|  ||0%|优先完成其余部分
 10|  ||0%|优先完成其余部分
