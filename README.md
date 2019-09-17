@@ -1,4 +1,4 @@
-# Unix 网络编程读书笔记-完成程度（43.5%）
+# Unix 网络编程读书笔记-完成程度（52.25%）
 ## 计划 10月1日 完成笔记
 
 章节|时间 | 章节名 | 完成程度 | 备注
@@ -25,3 +25,5 @@
 20|2019/9/11 |[广播](https://github.com/nercoeus/UNP-/blob/master/20.广播.md)|100%
 21|2019/9/16 |[组播](https://github.com/nercoeus/UNP-/blob/master/21.组播.md)|10%|优先完成其余部分
 22|2019/9/16 |[高级UDP套接字编程](https://github.com/nercoeus/UNP-/blob/master/22.高级UDP套接字编程.md)|100%
+23|  ||0%|优先完成其余部分
+24|2019/9/17 |[带外数据](https://github.com/nercoeus/UNP-/blob/master/24.带外数据.md)|100%
